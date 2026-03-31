@@ -1,0 +1,5 @@
+{
+    "download_url":  "https://github.com/itsabhish3k/norblis-invoice-tools-updates/releases/download/v0.8.1/NorblisInvoiceTools_v0.8.1.zip",
+    "version":  "0.8.1",
+    "notes":  "UI copy cleanup, smoother stamp preview updates, reduced tab-switch redraws"
+}
